@@ -8,7 +8,7 @@
 - **MSSV:** 2A202602433
 - **Lớp:** K4-L3A
 - **Repository URL:** https://github.com/minttamdayne/K4-L3-DAY13-DinhThiMinhTam-2A202602433-Monitoring-LLMOps
-- **Commit SHA cuối:** Cập nhật sau commit cuối và push.
+- **Commit SHA cuối:** 137133a4e92b2eec265dd6ed2c5f4d3ae2490302
 - **Challenge ID:** `day13-k4-l3a-monitoring-llmops-v1` (challenge.json là file local, không commit)
 - **Tên project Langfuse cá nhân:** `day13-k4-l3a-2A202602433`
 
