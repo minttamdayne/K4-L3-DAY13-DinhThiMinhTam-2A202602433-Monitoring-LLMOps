@@ -1,0 +1,3 @@
+Incident log evidence recorded in `data/logs.jsonl`:
+event=response_sent correlation_id=req-7c402084 latency_ms=2665 tool_name=retrieval tool_success=true
+Challenge window: 2026-09-29 09:27:55–09:28:08 Asia/Ho_Chi_Minh

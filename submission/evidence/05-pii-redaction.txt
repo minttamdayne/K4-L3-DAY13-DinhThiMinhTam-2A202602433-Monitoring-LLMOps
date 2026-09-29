@@ -1,0 +1,4 @@
+PII redaction evidence from structured log:
+- email -> [REDACTED_EMAIL]
+- phone/CCCD/card patterns are covered by `tests/test_pii.py`
+- validator result: Potential PII leaks detected: 0

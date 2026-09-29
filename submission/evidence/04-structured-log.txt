@@ -1,0 +1,3 @@
+Sample from `data/logs.jsonl` (PII redacted):
+{"event":"request_received","user_id_hash":"2055254ee30a","model":"claude-sonnet-4-5","feature":"qa","env":"dev","session_id":"s01","correlation_id":"req-64f7ce98","payload":{"message_preview":"What is your refund policy? My email is [REDACTED_EMAIL]"}}
+{"event":"response_sent","latency_ms":156,"ttft_ms":51,"tokens_in":36,"tokens_out":145,"cost_usd":0.002283,"tool_name":"retrieval","tool_success":true,"correlation_id":"req-64f7ce98"}
